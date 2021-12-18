@@ -2,7 +2,7 @@
 - 👀 I’m interested in using data analytics for analytical chemistry.
 - 🌱 I’m currently learning python and SQL.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 You can reach met by e-mail at jjel21059@gmail.com.
+- 📫 You can reach me by e-mail at jjel21059@gmail.com.
 
 <!---
 johnclos/johnclos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
