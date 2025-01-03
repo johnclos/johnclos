@@ -1,6 +1,5 @@
 - 👋 Hi, I’m John Clos
 - 👀 I’m interested in using data analytics for analytical chemistry.
-- 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me by e-mail at jjel21059@gmail.com.
 
 <!---
